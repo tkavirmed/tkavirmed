@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Tumenkhusel Avirmed</title>
+    <title>Home on Tumen[khusel] Avirmed</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Tumenkhusel Avirmed</description>
+    <description>Recent content in Home on Tumen[khusel] Avirmed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -12,14 +12,21 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I am an incoming MS/Ph.D. candidate in Applied Economics and Management at Cornell University. I finished my undergraduate degree in International Agriculture and Rural Development and Environment and Sustainability from Cornell University in May 2022.&lt;/p&gt;&#xA;&lt;p&gt;I am interested in a broad range of questions at the intersection of international development and environment. Specifically, I am interested in questions like how and to what extent changing climate affects the wellbeing of the people in the agricultural areas in developing countries. To answer these questions, I use the tools of economics and data science as well as remote sensing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I hold a dual Bachelor&amp;rsquo;s degree in International Agriculture and Rural Development and the Environment and Sustainability, and a Master&amp;rsquo;s degree in Applied Economics and Management from &lt;a href=&#34;https://www.cornell.edu&#34;&gt;Cornell University&lt;/a&gt;. Currently, I work as a Research Data Analyst at the &lt;a href=&#34;https://fse.fsi.stanford.edu&#34;&gt;Center on Food Security and the Environment (FSE)&lt;/a&gt; and &lt;a href=&#34;https://www.stanfordecholab.com&#34;&gt;the Environmental Change and Human Outcomes (ECHO)&lt;/a&gt; Lab at Stanford University. I am originally from Gobi-Altai, Mongolia.&lt;/p&gt;&#xA;&lt;p&gt;My interests lie at the intersection of international development and the environment. Specifically, I explore questions such as how—and to what extent—climate change affects the well-being of people living in agricultural regions of developing countries, and what kinds of adaptation and resilience programs national governments and international donors should invest in. To investigate these issues, I use tools from economics, data science, and remote sensing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;I will list projects that i am currently working on&lt;/p&gt;</description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Mongolian Rangeland Carrying Capacity Monitoring Project&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&amp;ndash;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

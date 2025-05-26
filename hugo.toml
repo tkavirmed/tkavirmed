@@ -1,6 +1,6 @@
 baseURL = 'https://tkavirmed.github.io'
 languageCode = 'en-us'
-title = 'Tumenkhusel Avirmed'
+title = 'Tumen[khusel] Avirmed'
 theme = 'typo'
 
 [taxonomies]
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Home meta description
-description = "A tech-oriented personal blog curated by Francesco Tomaselli."
+description = " Pending ..."
 
 # Appearance settings
 theme = 'auto'
@@ -18,11 +18,11 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I’m a data scientist and applied economist, who is driven by the goal of sustainable development. I’m passionate about applying statistical and machine learning methods to derive and devise the sustainability of the ecosystem, ecology. Strong proficiency in Python and R, along with knowledge of remote sensing and GIS, allows me to convert my theoretical knowledge to applied models or products. \\
+I am currently a Research Data Analyst at the Center on Food Security and the Environment (FSE) and the Environmental Change and Human Outcomes (ECHO) Lab at Stanford University.
+My academic interest lies at the intersection of global development and the environment. I focus on understanding the impact of climate change on rangelands, as well as exploring climate adaptation and resilience.
+I am also interested in the programs, policies, and initiatives that accelerate adaptation to global warming. I explore these issues through academic research and independent data-driven projects. Feel free to read [about myself](/about) or to look at my most recent [publications](/post) and [projects](/projects).
 
-Feel free to read [about myself](/about) or to look at my most recent [projects](/projects).
-
-Though I have many nick names, I go by Khusel mostly but you can also call me Khus
+I have a few nicknames—most people call me Khusel (pronounced hoo-sell), but Khus (pronounced hooz) works too!
 """
 
 singleDateFormat = '2 Jan 2006'
@@ -76,8 +76,16 @@ url = "/about"
 # url = "/library"
 
 [[params.menu]]
+name = "publications"
+url = "/publications"
+
+[[params.menu]]
 name = "projects"
 url = "/projects"
+
+# [[params.menu]]
+# name = "cv"
+# url = ""
 
 # [[params.menu]]
 # name = "tags"

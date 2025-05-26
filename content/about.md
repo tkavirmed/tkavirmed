@@ -5,6 +5,8 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-I am an incoming MS/Ph.D. candidate in Applied Economics and Management at Cornell University. I finished my undergraduate degree in International Agriculture and Rural Development and Environment and Sustainability from Cornell University in May 2022.
+I hold a dual Bachelor's degree in International Agriculture and Rural Development and the Environment and Sustainability, and a Master's degree in Applied Economics and Management from [Cornell University](https://www.cornell.edu). Currently, I work as a Research Data Analyst at the [Center on Food Security and the Environment (FSE)](https://fse.fsi.stanford.edu) and [the Environmental Change and Human Outcomes (ECHO)](https://www.stanfordecholab.com) Lab at Stanford University. I am originally from Gobi-Altai, Mongolia. 
 
-I am interested in a broad range of questions at the intersection of international development and environment. Specifically, I am interested in questions like how and to what extent changing climate affects the wellbeing of the people in the agricultural areas in developing countries. To answer these questions, I use the tools of economics and data science as well as remote sensing.
+My interests lie at the intersection of international development and the environment. Specifically, I explore questions such as how—and to what extent—climate change affects the well-being of people living in agricultural regions of developing countries, and what kinds of adaptation and resilience programs national governments and international donors should invest in. To investigate these issues, I use tools from economics, data science, and remote sensing.
+
+In my free time, I play soccer, basketball, or Polo whenever I can. I also [read](/library) but not as much as I should.
