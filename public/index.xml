@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Tumenkhusel Avirmed</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Tumenkhusel Avirmed</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am an incoming MS/Ph.D. candidate in Applied Economics and Management at Cornell University. I finished my undergraduate degree in International Agriculture and Rural Development and Environment and Sustainability from Cornell University in May 2022.&lt;/p&gt;&#xA;&lt;p&gt;I am interested in a broad range of questions at the intersection of international development and environment. Specifically, I am interested in questions like how and to what extent changing climate affects the wellbeing of the people in the agricultural areas in developing countries. To answer these questions, I use the tools of economics and data science as well as remote sensing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;I will list projects that i am currently working on&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

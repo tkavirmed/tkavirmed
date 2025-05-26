@@ -1,0 +1,115 @@
+baseURL = 'https://tkavirmed.github.io'
+languageCode = 'en-us'
+title = 'Tumenkhusel Avirmed'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Home meta description
+description = "A tech-oriented personal blog curated by Francesco Tomaselli."
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content in markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+I’m a data scientist and applied economist, who is driven by the goal of sustainable development. I’m passionate about applying statistical and machine learning methods to derive and devise the sustainability of the ecosystem, ecology. Strong proficiency in Python and R, along with knowledge of remote sensing and GIS, allows me to convert my theoretical knowledge to applied models or products. \\
+
+Feel free to read [about myself](/about) or to look at my most recent [projects](/projects).
+
+Though I have many nick names, I go by Khusel mostly but you can also call me Khus
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+
+# Footer
+showFooter = true
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "~"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/khusel-avirmed-1a4b2014a/"
+
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@tomfran"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/tkavirmed"
+
+# Main menu pages
+# [[params.menu]]
+# name = "home"
+# url = "/"
+
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# [[params.menu]]
+# name = "library"
+# url = "/library"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+# [[params.menu]]
+# name = "tags"
+# url = "/tags"
+
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'bw'
+
+# Deploy settings
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[params.giscus]
+enable = false
+repo = "tomfran/blog"
+repoid = "R_kgDOLtSszw"
+category = "General"
+categoryid = "DIC_kwDOLtSsz84CfLm4"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+
+[params.umami]
+enable = true
+websiteId = "cc219028-551e-4f3b-bbc7-e124ca907ce0"
+jsLocation = "https://cloud.umami.is/script.js"
