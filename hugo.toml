@@ -1,4 +1,4 @@
-baseURL = 'https://tkavirmed.github.io'
+baseURL = 'https://tkavirmed.github.io/tkavirmed'
 languageCode = 'en-us'
 title = 'Tumen[khusel] Avirmed'
 theme = 'typo'
