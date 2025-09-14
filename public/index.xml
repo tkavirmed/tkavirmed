@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Tumen[khusel] Avirmed</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:56934/</link>
     <description>Recent content in Home on Tumen[khusel] Avirmed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56934/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:56934/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/images/Avirmed_2523.jpg&#34; alt=&#34;My portrait&#34; width=&#34;200&#34;/&gt;&#xA;&lt;p&gt;Before I started working in &lt;a href=&#34;https://www.stanfordecholab.com&#34;&gt;the Environmental Change and Human Outcomes (ECHO)&lt;/a&gt; Lab, I completed a dual Bachelor&amp;rsquo;s degree in International Agriculture and Rural Development and the Environment and Sustainability, and a Master&amp;rsquo;s degree in Applied Economics and Management from &lt;a href=&#34;https://www.cornell.edu&#34;&gt;Cornell University&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My broad academic interests lie at the intersection of international development and the environment. Specifically, I explore questions such as how—and to what extent—climate change affects the well-being of people living in agricultural regions of developing countries, and what kinds of adaptation and resilience programs national governments and international donors should invest in. To investigate these issues, I use tools from applied economics, data science, and remote sensing.&lt;/p&gt;</description>
+      <guid>http://localhost:56934/about/</guid>
+      <description>&lt;img src=&#34;http://localhost:56934/images/Avirmed_2523.jpg&#34; alt=&#34;My portrait&#34; width=&#34;200&#34;/&gt;&#xA;&lt;p&gt;Before I started working in &lt;a href=&#34;https://www.stanfordecholab.com&#34;&gt;the Environmental Change and Human Outcomes (ECHO)&lt;/a&gt; Lab, I completed a dual Bachelor&amp;rsquo;s degree in International Agriculture and Rural Development and the Environment and Sustainability, and a Master&amp;rsquo;s degree in Applied Economics and Management from &lt;a href=&#34;https://www.cornell.edu&#34;&gt;Cornell University&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My broad academic interests lie at the intersection of international development and the environment. Specifically, I explore questions such as how—and to what extent—climate change affects the well-being of people living in agricultural regions of developing countries, and what kinds of adaptation and resilience programs national governments and international donors should invest in. To investigate these issues, I use tools from applied economics, data science, and remote sensing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:56934/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:56934/projects/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;I co-founded &lt;a href=&#34;https://greenzonetest.vercel.app/&#34;&gt;GreenZone Analytics&lt;/a&gt; in 2024. We are a team of three researchers, experts, and developers, working on rangeland carrying capacity prediction map in Mongolia using machine learning and sattellite data &amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>http://localhost:56934/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>http://localhost:56934/publications/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Purevjav, A., Avirmed, T., Wilcox, S., Barrett, C.B. (2025). &amp;ldquo;Climate Rather than Overgrazing Explains Most Rangeland Primary Productivity Change in Mongolia&amp;rdquo;. Science preprint.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.nber.org/papers/w32985&#34;&gt;Burke, M., Zahid, M., Martins, M. C., Callahan, C. W., Lee, R., Avirmed, T., &amp;hellip; &amp;amp; Lobell, D. (2024). &amp;ldquo;Are We Adapting to Climate Change?&amp;rdquo; (No. w32985). National Bureau of Economic Research&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;working-papers&#34;&gt;&#xA;  Working papers&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#working-papers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Avirmed, T. and Barrett, C.B. &amp;ldquo;Estimating the Joint Resilience of Herder Communities and Rangelands in Mongolia: A Moments-Based Approach&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--2. Understanding and addressing temperature impacts on mortality. ECHO LAB&#xA;3. Adaptation and resilience to climate change in the global south. Marshall Burke, Stephen Stedman, Carlos Gould, Brandon de la Cuesta, and others&#xA;4. The perfect versus the good: Quantifying tradeoffs in approaches to carbon removal. Marshall Burke, Steve Davis, and Tumenkhusel Avirmed</description>
     </item>
   </channel>
