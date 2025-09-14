@@ -70,7 +70,7 @@ url = "https://github.com/tkavirmed"
 
 [[params.menu]]
 name = "about"
-url = "content/about"
+url = "/about"
 
 # [[params.menu]]
 # name = "library"
