@@ -18,11 +18,12 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am currently a Research Data Analyst at the Center on Food Security and the Environment (FSE) and the Environmental Change and Human Outcomes (ECHO) Lab at Stanford University.
-My academic interest lies at the intersection of global development and the environment. I focus on understanding the impact of climate change on rangelands, as well as exploring climate adaptation and resilience.
-I am also interested in the programs, policies, and initiatives that accelerate adaptation to global warming. I explore these issues through academic research and independent data-driven projects. Feel free to read [about myself](/about) or to look at my most recent [publications](/publications) and [projects](/projects).
+I am currently a Research Data Analyst at [Center on Food Security and the Environment (FSE)](https://fse.fsi.stanford.edu) and [the Environmental Change and Human Outcomes (ECHO)](https://www.stanfordecholab.com) Lab at [Stanford University](https://sustainability.stanford.edu/).
+You can read more [about myself](/about), my most recent [publications](/publications) or [projects](/projects).
 
-I have a few nicknames—most people call me Khusel (pronounced hoo-sell), but Khus (pronounced hooz) works too!
+My legal name is Tumenkhusel Avirmed, but most people call me Khusel (pronounced who-sil), or just Khus (pronounced who-z). 
+
+I can be reached at atkhusel[at]gmail[dot]com.
 """
 
 singleDateFormat = '2 Jan 2006'
@@ -37,7 +38,7 @@ listSummaries = true
 listDateFormat = '02 Jan 2006'
 
 # Footer
-showFooter = true
+showFooter = false
 
 # Breadcrumbs
 [params.breadcrumbs]
@@ -83,9 +84,9 @@ url = "/publications"
 name = "projects"
 url = "/projects"
 
-# [[params.menu]]
-# name = "cv"
-# url = ""
+[[params.menu]]
+name = "cv"
+url = "https://drive.google.com/file/d/1WbpalwZ89DKzGL50JrNGskXwFtRB5ix2/view?usp=sharing"
 
 # [[params.menu]]
 # name = "tags"
@@ -94,8 +95,12 @@ url = "/projects"
 
 # Syntax highlight on code blocks
 [markup]
-[markup.highlight]
-style = 'bw'
+  [markup.highlight]
+    style = 'bw'
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Deploy settings
 [[deployment.matchers]]
@@ -121,3 +126,5 @@ theme = "preferred_color_scheme"
 enable = true
 websiteId = "cc219028-551e-4f3b-bbc7-e124ca907ce0"
 jsLocation = "https://cloud.umami.is/script.js"
+
+
