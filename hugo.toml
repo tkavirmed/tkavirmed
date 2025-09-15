@@ -1,4 +1,4 @@
-baseURL = 'http://atkhusel.com/'
+baseURL = 'https://atkhusel.com/'
 languageCode = 'en-us'
 title = 'Tumen[khusel] Avirmed'
 theme = 'typo'
