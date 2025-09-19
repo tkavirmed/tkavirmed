@@ -5,12 +5,13 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-* Purevjav, A., Avirmed, T., Wilcox, S., Barrett, C.B. (2025). "Climate Rather than Overgrazing Explains Most Rangeland Primary Productivity Change in Mongolia". Science preprint. 
-* [Burke, M., Zahid, M., Martins, M. C., Callahan, C. W., Lee, R., Avirmed, T., ... & Lobell, D. (2024). "Are We Adapting to Climate Change?" (No. w32985). National Bureau of Economic Research](https://www.nber.org/papers/w32985)
+* Purevjav, A, Avirmed, T., Wilcox, S., Barrett, C.B. (2025). "<a href="https://www.science.org/doi/10.1126/science.adn0005" target="_blank" rel="noopener noreferrer">Climate Rather than Overgrazing Explains Most Rangeland Primary Productivity Change in Mongolia</a>". Science 389
+
+* Burke, M., Zahid, M., Martins, M. C., Callahan, C. W., Lee, R., Avirmed, T., ... & Lobell, D. (2024). "<a href="https://www.nber.org/papers/w32985" target="_blank" rel="noopener noreferrer">Are We Adapting to Climate Change</a>?" (No. w32985). National Bureau of Economic Research
 
 ## Working papers
 
-* Avirmed, T. and Barrett, C.B. "Estimating the Joint Resilience of Herder Communities and Rangelands in Mongolia: A Moments-Based Approach"
+* Avirmed, T. and Barrett, C.B. "Estimating the Joint Resilience of Herder Communities and Rangelands in Mongolia: A Moments-Based Approach". Working paper.
 
 <!--2. Understanding and addressing temperature impacts on mortality. ECHO LAB
 3. Adaptation and resilience to climate change in the global south. Marshall Burke, Stephen Stedman, Carlos Gould, Brandon de la Cuesta, and others

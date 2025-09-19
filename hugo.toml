@@ -18,7 +18,7 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am currently a Research Data Analyst at [Center on Food Security and the Environment (FSE)](https://fse.fsi.stanford.edu) and [the Environmental Change and Human Outcomes (ECHO)](https://www.stanfordecholab.com) Lab at [Stanford University](https://sustainability.stanford.edu/).
+I am currently a Research Data Analyst at  <a href="https://fse.fsi.stanford.edu" target="_blank" rel="noopener noreferrer">Center on Food Security and the Environment (FSE)</a> and <a href="https://www.stanfordecholab.com" target="_blank" rel="noopener noreferrer">the Environmental Change and Human Outcomes (ECHO)</a> Lab at Stanford University.
 You can read more [about myself](/about), my most recent [publications](/publications) or [projects](/projects).
 
 My legal name is Tumenkhusel Avirmed, but most people call me Khusel (pronounced who-sil), or just Khus (pronounced who-z). 
