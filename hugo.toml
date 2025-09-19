@@ -84,9 +84,9 @@ url = "/publications"
 name = "projects"
 url = "/projects"
 
-[[params.menu]]
-name = "cv"
-url = "https://drive.google.com/file/d/1WbpalwZ89DKzGL50JrNGskXwFtRB5ix2/view?usp=sharing"
+# [[params.menu]]
+# name = "cv"
+# url = "https://drive.google.com/file/d/1WbpalwZ89DKzGL50JrNGskXwFtRB5ix2/view?usp=sharing"
 
 # [[params.menu]]
 # name = "tags"

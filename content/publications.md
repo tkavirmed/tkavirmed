@@ -7,7 +7,7 @@ hidePagination: true
 
 * Purevjav, A, Avirmed, T., Wilcox, S., Barrett, C.B. (2025). "<a href="https://www.science.org/doi/10.1126/science.adn0005" target="_blank" rel="noopener noreferrer">Climate Rather than Overgrazing Explains Most Rangeland Primary Productivity Change in Mongolia</a>". Science 389
 
-* Burke, M., Zahid, M., Martins, M. C., Callahan, C. W., Lee, R., Avirmed, T., ... & Lobell, D. (2024). "<a href="https://www.nber.org/papers/w32985" target="_blank" rel="noopener noreferrer">Are We Adapting to Climate Change</a>?" (No. w32985). National Bureau of Economic Research
+* Burke, M., Zahid, M., Martins, M. C., Callahan, C. W., Lee, R., Avirmed, T., ... & Lobell, D. (2024). "<a href="https://www.nber.org/papers/w32985" target="_blank" rel="noopener noreferrer">No clear evidence society is becoming less sensitive to climate</a>" (No. w32985). National Bureau of Economic Research
 
 ## Working papers
 
